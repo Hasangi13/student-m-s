@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-   <p>Hello React!</p>
+   <p>Student Management system,</p>
     </>
   )
 }
